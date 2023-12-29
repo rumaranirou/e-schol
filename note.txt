@@ -1,0 +1,36 @@
+figma to html
+
+   
+font-family:
+
+
+    font-family: 'Poppins', sans-serif;
+
+   
+    font-family: 'Roboto', sans-serif;
+
+      poppins  - 400  ,700 ,500
+      roboto  -400
+
+
+
+color:
+     black  #00000
+     green  #21b573;
+     orange #FD511A
+
+
+
+responsiveness:
+    order
+    alignment
+    spacing
+    font-size
+
+xxl--xl--lg     md    sm-col
+    100        80-100    50-70
+order  
+spacing
+font-size
+BANNER
+h1    48    40  30
